@@ -4,8 +4,6 @@ An interactive web application that explores data science salaries across job ti
 
 ## Live app
 
-Once deployed, add your Streamlit Community Cloud URL here:
-
 https://data-science-salary-calculator.streamlit.app/
 
 ## Dashboard features
